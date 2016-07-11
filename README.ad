@@ -1,0 +1,11 @@
+= OpenShift GraphicsMagick Cartridge
+
+This cartridge provides the GraphicsMagick program, compiled on
+ RHEL-6.7, for use on OpenShift v2.
+
+GraphicsMagick is licensed under the MIT license, and is available for
+ download from http://www.graphicsmagick.org[graphicsmagick.org].
+The copyright file is included
+ link:./versions/1.3.24/share/doc/GraphicsMagick/Copyright.txt[here].
+The sources used to compile the program are available on the
+ https://github.com/grdryn/openshift-graphicsmagick-cart/releases[releases page].

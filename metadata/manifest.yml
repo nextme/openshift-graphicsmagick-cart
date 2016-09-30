@@ -21,4 +21,4 @@ Scaling:
   Min: 1
   Max: -1
 Install-Build-Required: false
-Source-Url: git@github.com:nextme/openshift-graphicsmagick-cart.git
+Source-Url: https://github.com/nextme/openshift-graphicsmagick-cart

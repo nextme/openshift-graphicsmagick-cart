@@ -21,4 +21,4 @@ Scaling:
   Min: 1
   Max: -1
 Install-Build-Required: false
-Source-Url: https://github.com/grdryn/openshift-graphicsmagick-cart/releases/download/graphicsmagick-1.3.24-cart-0.1.0/GraphicsMagick-LATEST.tar.xz
+Source-Url: git@github.com:nextme/openshift-graphicsmagick-cart.git
